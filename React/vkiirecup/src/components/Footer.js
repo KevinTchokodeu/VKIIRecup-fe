@@ -11,7 +11,6 @@ function Footer() {
           <div class='footer-link-items'>
             <h2>À propos de nous</h2>
             <Link to='/'>Emplois</Link>
-            <Link to='/'>Partenaires</Link>
             <Link to='/'>Services</Link>
           </div>
         </div>
